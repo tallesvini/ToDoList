@@ -9,8 +9,8 @@ C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.App
 C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.AssemblyInfo.cs
 C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.csproj.CoreCompileInputs.cache
 C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.sourcelink.json
+C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.3DAAE8D2.Up2Date
 C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.dll
 C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Application\obj\Debug\net8.0\refint\TodoList.Application.dll
 C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.Application.pdb
 C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Application\obj\Debug\net8.0\ref\TodoList.Application.dll
-C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Application\obj\Debug\net8.0\TodoList.3DAAE8D2.Up2Date
