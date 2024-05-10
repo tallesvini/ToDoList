@@ -18,3 +18,23 @@ C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Inf
 C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Infra.IoC\obj\Release\net8.0\refint\TodoList.Infra.IoC.dll
 C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Infra.IoC\obj\Release\net8.0\TodoList.Infra.IoC.pdb
 C:\Users\jbaga\OneDrive\Área de Trabalho\Estudos\PROJETOS\TodoList\TodoList.Infra.IoC\obj\Release\net8.0\ref\TodoList.Infra.IoC.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\bin\Release\net8.0\TodoList.Infra.IoC.deps.json
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\bin\Release\net8.0\TodoList.Infra.IoC.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\bin\Release\net8.0\TodoList.Infra.IoC.pdb
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\bin\Release\net8.0\TodoList.Application.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\bin\Release\net8.0\TodoList.Domain.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\bin\Release\net8.0\TodoList.Infra.Data.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\bin\Release\net8.0\TodoList.Application.pdb
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\bin\Release\net8.0\TodoList.Domain.pdb
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\bin\Release\net8.0\TodoList.Infra.Data.pdb
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\TodoList.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\TodoList.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\TodoList.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\TodoList.Infra.IoC.AssemblyInfo.cs
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\TodoList.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\TodoList.Infra.IoC.sourcelink.json
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\TodoList.6232AC4B.Up2Date
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\TodoList.Infra.IoC.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\refint\TodoList.Infra.IoC.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\TodoList.Infra.IoC.pdb
+C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Infra.IoC\obj\Release\net8.0\ref\TodoList.Infra.IoC.dll

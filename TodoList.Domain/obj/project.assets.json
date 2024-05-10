@@ -2272,11 +2272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\TodoList.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj",
       "projectName": "TodoList.Domain",
-      "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\TodoList.Domain.csproj",
+      "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj",
       "packagesPath": "C:\\Users\\jbaga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\obj\\",
+      "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jbaga\\AppData\\Roaming\\NuGet\\NuGet.Config",

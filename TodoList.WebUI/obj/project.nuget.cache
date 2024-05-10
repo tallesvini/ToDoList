@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/eI5JgZJCoyzc6VM7Hj+Br+tWK+bd6O7pWGR9wrG83Ef/vJ81pmqbtpNGEu8xnMhEUtVvwxXXnjGMzKZbNqiyA==",
+  "dgSpecHash": "cXU6BkxaBk41WQKv0oSn89pqKTRAil7bLnzI5TiA74JfjO7SbBcUgLppfj/JxrRxOgZGL81PG3EGEni+Twwd8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\TodoList.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.WebUI\\TodoList.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbaga\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\jbaga\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

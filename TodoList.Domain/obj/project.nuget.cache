@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2WVGcIuoGYhkxHE/rt8EtpSXl0j3RlI8ynge7V9F47/NQzPYKS5pevDnbZknLVsupSNvar3yVZUKS1Dqd7BEMg==",
+  "dgSpecHash": "I98Fes/HQpB7z0Px4IA/ONiW84SgzC+BKtNnKcBGnHYzfo5UJ7e8zGcy6VDAl8rWhOyU7K0/6pAGoVcPQ6+a3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\TodoList.Domain.csproj",
+  "projectFilePath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbaga\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\jbaga\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
