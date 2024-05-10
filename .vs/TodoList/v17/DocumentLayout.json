@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.webui\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|solutionrelative:todolist.webui\\wwwroot\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.webui\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|solutionrelative:todolist.webui\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.webui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|solutionrelative:todolist.webui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|solutionrelative:todolist.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.webui\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|solutionrelative:todolist.webui\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.webui\\views\\dashboard\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|solutionrelative:todolist.webui\\views\\dashboard\\status.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.webui\\views\\dashboard\\createtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|solutionrelative:todolist.webui\\views\\dashboard\\createtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.application\\interfaces\\itodolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|solutionrelative:todolist.application\\interfaces\\itodolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.application\\services\\todolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|solutionrelative:todolist.application\\services\\todolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.webui\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|solutionrelative:todolist.webui\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B206EA8B-3A5D-401B-AEA2-D5ECA30BB3BD}|TodoList.Domain\\TodoList.Domain.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.domain\\validation\\todolistvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B206EA8B-3A5D-401B-AEA2-D5ECA30BB3BD}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\validation\\todolistvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.application\\mappings\\dtotocommandmappingprofille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|solutionrelative:todolist.application\\mappings\\dtotocommandmappingprofille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.application\\mappings\\commandtodomainmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|solutionrelative:todolist.application\\mappings\\commandtodomainmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Infra.Data\\Migrations\\20240509223121_Novo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoList.Infra.Data\\Migrations\\20240509223121_Novo3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B206EA8B-3A5D-401B-AEA2-D5ECA30BB3BD}|TodoList.Domain\\TodoList.Domain.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.domain\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B206EA8B-3A5D-401B-AEA2-D5ECA30BB3BD}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB70F5-405B-46E2-8840-8C5A68D9F728}|TodoList.Infra.Data\\TodoList.Infra.Data.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.infra.data\\configuration\\todolistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB70F5-405B-46E2-8840-8C5A68D9F728}|TodoList.Infra.Data\\TodoList.Infra.Data.csproj|solutionrelative:todolist.infra.data\\configuration\\todolistconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB70F5-405B-46E2-8840-8C5A68D9F728}|TodoList.Infra.Data\\TodoList.Infra.Data.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.infra.data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB70F5-405B-46E2-8840-8C5A68D9F728}|TodoList.Infra.Data\\TodoList.Infra.Data.csproj|solutionrelative:todolist.infra.data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B206EA8B-3A5D-401B-AEA2-D5ECA30BB3BD}|TodoList.Domain\\TodoList.Domain.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\estudos\\projetos\\todolist\\todolist.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B206EA8B-3A5D-401B-AEA2-D5ECA30BB3BD}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Infra.Data\\Migrations\\20240509222945_Novo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoList.Infra.Data\\Migrations\\20240509222945_Novo2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TodoList.WebUI\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TodoList.WebUI\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAlwCwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:12:32.222Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TodoList.WebUI\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TodoList.WebUI\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAACAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-09T20:20:27.392Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TodoList.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TodoList.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:19:09.191Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoList.WebUI\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "TodoList.WebUI\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T20:12:35.684Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard.css",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\dashboard.css",
+              "RelativeDocumentMoniker": "TodoList.WebUI\\wwwroot\\css\\dashboard.css",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\dashboard.css",
+              "RelativeToolTip": "TodoList.WebUI\\wwwroot\\css\\dashboard.css",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-09T20:46:19.006Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTask.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Views\\Dashboard\\CreateTask.cshtml",
+              "RelativeDocumentMoniker": "TodoList.WebUI\\Views\\Dashboard\\CreateTask.cshtml",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Views\\Dashboard\\CreateTask.cshtml",
+              "RelativeToolTip": "TodoList.WebUI\\Views\\Dashboard\\CreateTask.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T21:32:29.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoListService.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Application\\Services\\ToDoListService.cs",
+              "RelativeDocumentMoniker": "TodoList.Application\\Services\\ToDoListService.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Application\\Services\\ToDoListService.cs",
+              "RelativeToolTip": "TodoList.Application\\Services\\ToDoListService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:26:05.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IToDoListService.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Application\\Interfaces\\IToDoListService.cs",
+              "RelativeDocumentMoniker": "TodoList.Application\\Interfaces\\IToDoListService.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Application\\Interfaces\\IToDoListService.cs",
+              "RelativeToolTip": "TodoList.Application\\Interfaces\\IToDoListService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:25:31.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Status.cshtml",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Views\\Dashboard\\Status.cshtml",
+              "RelativeDocumentMoniker": "TodoList.WebUI\\Views\\Dashboard\\Status.cshtml",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Views\\Dashboard\\Status.cshtml",
+              "RelativeToolTip": "TodoList.WebUI\\Views\\Dashboard\\Status.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-09T23:42:53.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "TodoList.WebUI\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "TodoList.WebUI\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-09T23:22:03.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DTOToCommandMappingProfille.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Application\\Mappings\\DTOToCommandMappingProfille.cs",
+              "RelativeDocumentMoniker": "TodoList.Application\\Mappings\\DTOToCommandMappingProfille.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Application\\Mappings\\DTOToCommandMappingProfille.cs",
+              "RelativeToolTip": "TodoList.Application\\Mappings\\DTOToCommandMappingProfille.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:33:34.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ToDoListValidator.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\Validation\\ToDoListValidator.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Validation\\ToDoListValidator.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\Validation\\ToDoListValidator.cs",
+              "RelativeToolTip": "TodoList.Domain\\Validation\\ToDoListValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAywCMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:29:15.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommandToDomainMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Application\\Mappings\\CommandToDomainMappingProfile.cs",
+              "RelativeDocumentMoniker": "TodoList.Application\\Mappings\\CommandToDomainMappingProfile.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Application\\Mappings\\CommandToDomainMappingProfile.cs",
+              "RelativeToolTip": "TodoList.Application\\Mappings\\CommandToDomainMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:33:45.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240509223121_Novo3.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Infra.Data\\Migrations\\20240509223121_Novo3.cs",
+              "RelativeDocumentMoniker": "TodoList.Infra.Data\\Migrations\\20240509223121_Novo3.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Infra.Data\\Migrations\\20240509223121_Novo3.cs",
+              "RelativeToolTip": "TodoList.Infra.Data\\Migrations\\20240509223121_Novo3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:31:21.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "TodoList.Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:30:34.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Infra.Data\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "TodoList.Infra.Data\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Infra.Data\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "TodoList.Infra.Data\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:30:27.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ToDoListConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Infra.Data\\Configuration\\ToDoListConfiguration.cs",
+              "RelativeDocumentMoniker": "TodoList.Infra.Data\\Configuration\\ToDoListConfiguration.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Infra.Data\\Configuration\\ToDoListConfiguration.cs",
+              "RelativeToolTip": "TodoList.Infra.Data\\Configuration\\ToDoListConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:29:24.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\Entities\\ToDoList.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Entities\\ToDoList.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\Entities\\ToDoList.cs",
+              "RelativeToolTip": "TodoList.Domain\\Entities\\ToDoList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:28:51.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240509222945_Novo2.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Infra.Data\\Migrations\\20240509222945_Novo2.cs",
+              "RelativeDocumentMoniker": "TodoList.Infra.Data\\Migrations\\20240509222945_Novo2.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Infra.Data\\Migrations\\20240509222945_Novo2.cs",
+              "RelativeToolTip": "TodoList.Infra.Data\\Migrations\\20240509222945_Novo2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:29:45.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

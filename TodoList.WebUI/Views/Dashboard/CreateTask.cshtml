@@ -1,0 +1,82 @@
+﻿@model TodoList.Application.DTOs.ToDoListDTO;
+<link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" />
+
+@{
+	ViewBag.Title = "Criar atividade";
+}
+
+<style>
+	.buttons {
+		display: flex;
+		justify-content: end;
+		gap: 1rem;
+	}
+
+	.btn-cancel {
+		background-color: #FFFFFF;
+		width: 30%;
+		color: #BA5112;
+		font-weight: 500;
+	}
+
+	.btn-save {
+		background-color: #BA5112;
+		color: #FFFFFF;
+		font-weight: 500;
+		width: 30%;
+	}
+
+	.criar-nova-task {
+		background-color: #EDB046;
+	}
+
+	.titles {
+		display: flex;
+		justify-content: center;
+		flex-direction: collumn;
+	}
+
+	.titles h2 {
+		font-weight: 700;
+	}
+</style>
+
+<div class="container criar-nova-task">
+	<div style="width: 70%">
+		<div class="titles">
+			<h2>To-Do App</h2>
+			<p>Comece a organizar seu dia a dia</p>
+		</div>
+		<form asp-action="CreateTask">
+			<div class="form-floating mb-3 w-100">
+				<input type="text" class="form-control" id="Title" name="Title" placeholder="Título da sua task..." required>
+				<label for="floatingInput">Título:</label>
+			</div>
+
+			<div class="form-floating mb-3">
+				<textarea class="form-control" placeholder="Deixe sua descrição aqui..." id="Description" name="Description" style="height: 100px" required></textarea>
+				<label for="floatingTextarea2">Descrição:</label>
+			</div>
+
+			<div class="form-floating mb-3 w-100">
+				<input type="datetime-local" class="form-control" id="StartDate" name="StartDate" required>
+				<label for="floatingInput">Data de ínicio:</label>
+			</div>
+
+			<div class="form-floating mb-3">
+				<select class="form-select" id="Status" name="Status" aria-label="Floating label select example" required>
+					<option selected>Selecione o Status</option>
+					<option value="3">Em Andamento</option>
+					<option value="1">Pendente</option>
+					<option value="2">Concluída</option>
+				</select>
+				<label for="floatingSelect">Status da atividade:</label>
+			</div>
+			<div class="buttons">
+				<a class="nav-link text-dark btn-cancel btn" asp-controller="Dashboard" asp-action="Index">Cancelar</a>
+				<button class="btn-save btn" type="submit">Salvar</button>
+			</div>
+		</form>
+
+	</div>
+</div>

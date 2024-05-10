@@ -8,7 +8,7 @@ namespace TodoList.Domain.Entities
         public string PassWord { get; private set; }
         public RoleEnum Role { get; private set; }
 
-		public ICollection<ToDoList> ToDoLists { get; private set; }
+		//public ICollection<ToDoList> ToDoLists { get; private set; }
 
 		public User(Guid id, string userName, string passWord, RoleEnum role)
 		{

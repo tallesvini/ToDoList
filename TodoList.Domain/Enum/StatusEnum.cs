@@ -1,9 +1,16 @@
-﻿namespace TodoList.Domain.Enum
+﻿using System.ComponentModel;
+
+namespace TodoList.Domain.Enum
 {
 	public enum StatusEnum
 	{
+		[Description("Pendente")]
 		Pendente = 1,
-		Concluída = 2,
-		Em_Andamento = 3
+
+		[Description("Concluído")]
+		Concluido = 2,
+
+		[Description("Em Andamento")]
+		Andamento = 3
 	}
 }

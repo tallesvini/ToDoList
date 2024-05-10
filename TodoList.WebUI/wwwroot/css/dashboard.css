@@ -1,0 +1,190 @@
+﻿.container-task {
+    margin-top: 2vh;
+}
+
+.task {
+    box-shadow: 18px 13px 8px -12px rgba(0,0,0,0.1);
+    width: calc(50% - 20px);
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.task:nth-child(even) {
+    background-color: #EDB046;
+}
+
+.task:nth-child(odd) {
+    background-color: #BA5112;
+}
+
+.status-task > span,
+.top-itens > span {
+    font-size: 24px !important;
+    color: #FFFFFF;
+}
+
+.top-itens {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.task h3 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.task h4 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.task > div {
+    display: flex; 
+    gap: .3rem;
+}
+
+.task > div > span {
+    font-size: 30px;
+}
+
+.task > p {
+    font-weight: 500;
+}
+
+.task > p > span {
+    color: #FFFFFF;
+    font-weight: 600;
+}
+
+.wrap-task {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: .5rem;
+    margin-top: 5vh;
+}
+
+.criar-nova-task {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.criar-nova-task > div {
+}
+
+.buttons {
+    display: flex;
+    justify-content: end;
+    gap: 1rem;
+}
+
+.btn-cancel {
+    background-color: #FFFFFF;
+    width: 30%;
+    color: #BA5112;
+    font-weight: 500;
+}
+
+.btn-save {
+    background-color: #BA5112;
+    color: #FFFFFF;
+    font-weight: 500;
+    width: 30%;
+}
+
+.criar-nova-task {
+    background-color: #EDB046;
+}
+
+.titles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.titles h2 {
+    font-weight: 800;
+    color: #FFFFFF;
+ }
+
+.titles p {
+    font-weight: 500;
+    color: #FFFFFF;
+ }
+
+.box-apresentation-task {
+    color: #251814;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-apresentation-task h3 {
+    font-weight: 700;
+}
+
+/*Status*/
+.task-status {
+    box-shadow: 1px 2px 6px #BFBFBF;
+    display: grid;
+    grid-column-gap: 10%;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.task-status:nth-child(even) {
+    background-color: #EDB046;
+}
+
+.task-status:nth-child(odd) {
+    background-color: #BA5112;
+}
+
+.task-status h3 {
+    font-size: 22px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.task-status h4 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+.task-status > div {
+    display: flex;
+    gap: .3rem;
+}
+
+.task-status > div > span {
+    font-size: 30px;
+}
+
+.task-status > p {
+    font-weight: 500;
+}
+
+.task > p > span {
+    color: #FFFFFF;
+    font-weight: 600;
+ }
+
+.wrap-task-status {
+    margin-top: 5vh;
+    display: flex;
+    gap: .5rem;
+}
+
+.wrap-task-status h1 {
+    font-size: 25px;
+    text-align: center;
+}

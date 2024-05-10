@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sBHgJKj0PTX0loOet2aXiI3okqS2FGa97P0+u4Jm6Ks=",
+  "Hash": "+0XEr0XGZKkWkOvOkneD94FVNWuQxK9t5bjugDA8qi0=",
   "Source": "TodoList.WebUI",
   "BasePath": "_content/TodoList.WebUI",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TodoList.WebUI.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\dashboard.css",
+      "SourceId": "TodoList.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\",
+      "BasePath": "_content/TodoList.WebUI",
+      "RelativePath": "css/dashboard.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\dashboard.css"
     },
     {
       "Identity": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\site.css",

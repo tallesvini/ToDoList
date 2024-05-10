@@ -1,0 +1,67 @@
+﻿@using TodoList.Domain.Enum
+@model IEnumerable<TodoList.Application.DTOs.ToDoListDTO>
+@{
+	ViewBag.Title = "Dashboard";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dashboard</title>
+	<link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" />
+</head>
+<body>
+	<div class="container-task">
+		<div class="box-apresentation-task">
+			<h3>Todas as Tasks</h3>
+			<p>Delete todas</p>
+		</div>
+		<div class="wrap-task">
+			@foreach (var item in Model)
+			{
+				<div class="task">
+					<div class="top-itens">
+						<h3>@item.Title</h3>
+						<span class="material-symbols-rounded">
+							edit
+						</span>
+					</div>
+					<div class="status-task d-flex">
+						@if (item.Status == StatusEnum.Concluido)
+						{
+							<span class="material-symbols-rounded">
+								check_circle
+							</span>
+						}
+						@if (item.Status == StatusEnum.Pendente)
+						{
+							<span class="material-symbols-rounded">
+								pending
+							</span>
+						}
+						@if (item.Status == StatusEnum.Andamento)
+						{
+							<span class="material-symbols-rounded">
+								clock_loader_40
+							</span>
+
+						}
+						<h4>@item.Status.ToString()</h4>
+					</div>
+
+					<h6> - @item.Description</h6>
+					<p>
+						<span>Início:</span> @item.StartDate.ToString("dd/MM/yyyy hh:mm tt")
+
+						@if (item.EndDate != new DateTimeOffset())
+						{
+							<span>Fim:</span> @item.EndDate.ToString("dd/MM/yyyy hh:mm tt")
+						}
+					</p>
+					@* <p>Status: @item.Status.ToString()</p> *@
+				</div>
+			}
+		</div>
+	</div>
+</body>
+</html>

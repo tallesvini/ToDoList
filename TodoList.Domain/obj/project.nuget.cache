@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "B3YEnXWURW0+oNgePDd7lDJ4rXeY6LgoI/zbDNYw+EQydnM5WEk/vuvPz/VsfdY7TGUCwjugPxjClW/udD2Wnw==",
+  "dgSpecHash": "2WVGcIuoGYhkxHE/rt8EtpSXl0j3RlI8ynge7V9F47/NQzPYKS5pevDnbZknLVsupSNvar3yVZUKS1Dqd7BEMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.Domain\\TodoList.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jbaga\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\jbaga\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
     "C:\\Users\\jbaga\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\jbaga\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\jbaga\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
