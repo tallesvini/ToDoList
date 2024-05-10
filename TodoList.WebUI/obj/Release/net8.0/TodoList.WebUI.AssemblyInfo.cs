@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoList.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfec04558c556688866da537cd59babed1213972")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1457ad47e32e3cbfcb1d591ca3a56f0405f021b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoList.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoList.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

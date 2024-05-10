@@ -9,71 +9,71 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TodoList.WebUI
 build_property.RootNamespace = TodoList.WebUI
-build_property.ProjectDir = C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.WebUI\
+build_property.ProjectDir = C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.WebUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.WebUI
+build_property.MSBuildProjectDirectory = C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Dashboard/CreateTask.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Dashboard/CreateTask.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXENyZWF0ZVRhc2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Dashboard/DeleteAllTask.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Dashboard/DeleteAllTask.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERlbGV0ZUFsbFRhc2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Dashboard/DeleteTask.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Dashboard/DeleteTask.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERlbGV0ZVRhc2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Dashboard/Index.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Dashboard/StatusTask.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Dashboard/StatusTask.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFN0YXR1c1Rhc2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Dashboard/UpdateTask.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Dashboard/UpdateTask.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFVwZGF0ZVRhc2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/ErrorStatusCode/InternalError.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/ErrorStatusCode/InternalError.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JTdGF0dXNDb2RlXEludGVybmFsRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/ErrorStatusCode/NotFound.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/ErrorStatusCode/NotFound.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JTdGF0dXNDb2RlXE5vdEZvdW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Home/Index.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Shared/Error.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Shared/Index.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Shared/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/_ViewImports.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/_ViewStart.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/TESTE PROJETO GIT/ToDoList/TodoList.WebUI/Views/Shared/_Layout.cshtml]
+[C:/Users/jbaga/OneDrive/Área de Trabalho/GIT TODO/ToDoList/TodoList.WebUI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w2y5d9ts8y

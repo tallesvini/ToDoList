@@ -36,7 +36,7 @@ namespace TodoList.WebUI.Controllers
             }
             catch(Exception ex)
             {
-                throw new Exception();
+                throw new Exception("Error: " + ex.Message);
             }
         }
 
@@ -57,8 +57,15 @@ namespace TodoList.WebUI.Controllers
 		[HttpPost]
 		public async Task<IActionResult> UpdateTaskPost(ToDoListDTO toDoList)
 		{
-			await _toDoListService.UpdateToDoListAsync(toDoList);
-            return RedirectToAction("Index");
+			try
+			{
+				await _toDoListService.UpdateToDoListAsync(toDoList);
+				return RedirectToAction("Index");
+			}
+			catch(Exception ex)
+			{
+				throw new Exception("Error:" + ex.Message);
+			}
         }
 
         [HttpGet]
@@ -70,13 +77,19 @@ namespace TodoList.WebUI.Controllers
         [HttpPost]
 		public async Task<IActionResult> DeleteTaskPost(Guid id)
 		{
-			await _toDoListService.DeleteToDoListAsync(id);
-			return RedirectToAction("Index", "Home");
+			try
+			{
+				await _toDoListService.DeleteToDoListAsync(id);
+				return RedirectToAction("Index", "Home");
+			}
+			catch(Exception ex)
+			{
+				throw new Exception("Error:" + ex.Message);
+			}
 		}
 
-
 		[HttpGet]
-		public async Task<IActionResult> DeleteAllTask()
+		public IActionResult DeleteAllTask()
 		{
 			return View();
 		}
@@ -84,8 +97,15 @@ namespace TodoList.WebUI.Controllers
 		[HttpPost]
 		public async Task<IActionResult> DeleteAllTaskPost()
 		{
-			await _toDoListService.DeleteAllToDoListAsync();
-			return RedirectToAction("Index", "Home");
+			try
+			{
+				await _toDoListService.DeleteAllToDoListAsync();
+				return RedirectToAction("Index", "Home");
+			}
+			catch(Exception ex)
+			{
+				throw new Exception("Error:" + ex.Message);
+			}
 		}
 	}
 }

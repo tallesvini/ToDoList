@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.WebUI\\TodoList.WebUI.csproj": {}
+    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.WebUI\\TodoList.WebUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Application\\TodoList.Application.csproj": {
+    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\TodoList.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Application\\TodoList.Application.csproj",
+        "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\TodoList.Application.csproj",
         "projectName": "TodoList.Application",
-        "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Application\\TodoList.Application.csproj",
+        "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\TodoList.Application.csproj",
         "packagesPath": "C:\\Users\\jbaga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Application\\obj\\",
+        "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jbaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj": {
-                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj"
+              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj": {
+                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj": {
+    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj",
         "projectName": "TodoList.Domain",
-        "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj",
+        "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj",
         "packagesPath": "C:\\Users\\jbaga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\obj\\",
+        "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jbaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.Data\\TodoList.Infra.Data.csproj": {
+    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.Data\\TodoList.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.Data\\TodoList.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.Data\\TodoList.Infra.Data.csproj",
         "projectName": "TodoList.Infra.Data",
-        "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.Data\\TodoList.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.Data\\TodoList.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\jbaga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jbaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -184,8 +184,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj": {
-                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj"
+              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj": {
+                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj"
               }
             }
           }
@@ -246,14 +246,14 @@
         }
       }
     },
-    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj": {
+    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj",
         "projectName": "TodoList.Infra.IoC",
-        "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj",
+        "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\jbaga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.IoC\\obj\\",
+        "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jbaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -270,14 +270,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Application\\TodoList.Application.csproj": {
-                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Application\\TodoList.Application.csproj"
+              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\TodoList.Application.csproj": {
+                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\TodoList.Application.csproj"
               },
-              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj": {
-                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj"
+              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj": {
+                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\TodoList.Domain.csproj"
               },
-              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.Data\\TodoList.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.Data\\TodoList.Infra.Data.csproj"
+              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.Data\\TodoList.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.Data\\TodoList.Infra.Data.csproj"
               }
             }
           }
@@ -338,14 +338,14 @@
         }
       }
     },
-    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.WebUI\\TodoList.WebUI.csproj": {
+    "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.WebUI\\TodoList.WebUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.WebUI\\TodoList.WebUI.csproj",
+        "projectUniqueName": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.WebUI\\TodoList.WebUI.csproj",
         "projectName": "TodoList.WebUI",
-        "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.WebUI\\TodoList.WebUI.csproj",
+        "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.WebUI\\TodoList.WebUI.csproj",
         "packagesPath": "C:\\Users\\jbaga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.WebUI\\obj\\",
+        "outputPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.WebUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jbaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -362,8 +362,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj": {
-                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj"
+              "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj"
               }
             }
           }

@@ -28,3 +28,18 @@ C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Do
 C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.pdb
 C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.genruntimeconfig.cache
 C:\Users\jbaga\OneDrive\Área de Trabalho\TESTE PROJETO GIT\ToDoList\TodoList.Domain\obj\Debug\net8.0\ref\TodoList.Domain.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.deps.json
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.runtimeconfig.json
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\bin\Debug\net8.0\TodoList.Domain.pdb
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.csproj.AssemblyReference.cache
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.AssemblyInfoInputs.cache
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.AssemblyInfo.cs
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.sourcelink.json
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\refint\TodoList.Domain.dll
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.pdb
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\TodoList.Domain.genruntimeconfig.cache
+C:\Users\jbaga\OneDrive\Área de Trabalho\GIT TODO\ToDoList\TodoList.Domain\obj\Debug\net8.0\ref\TodoList.Domain.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6mwOp8rikvwpe4CizClLhz8h4CU9/oMcvkGywm43MLXb897M83B2HXj+GH7KNIe8sptVP2EktR8PxpF/vTQn5w==",
+  "dgSpecHash": "JdY5tBoaZKTHluNfRtgRtbJCjpXT4BybDOWKJklTSO7ALMenFtHbfeK5UQKDK+Anv8cPsUsSA0kyiyV2K9CP5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.IoC\\TodoList.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbaga\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\jbaga\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N0NZ4QVktAZ2KvGbu/sCRoeP8NIsXfrUnjBuddqx2sG7Px2mif7gp5yjhbiYJ+9/QyzRNoww9BYgwRRnINQ+pQ==",
+  "dgSpecHash": "EIR7MrqviMIU8vR6rVuF241hujbxpFkTT4q69U0KdveuNPCkjx71OCjtmLvKYdFF8/SiUHk0cnr0EwI2MgSTDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\TESTE PROJETO GIT\\ToDoList\\TodoList.Application\\TodoList.Application.csproj",
+  "projectFilePath": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\TodoList.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbaga\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\jbaga\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
