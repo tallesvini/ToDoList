@@ -26,11 +26,6 @@ namespace TodoList.Infra.Data.Repositories
 			return await _dbContext.Set<ToDoList>().FindAsync(id);
 		}
 
-		public async Task<IEnumerable<ToDoList>> GetByStatusAsync(StatusEnum status)
-		{
-			return await _dbContext.Set<ToDoList>().AsNoTracking().Where(x => x.Status == status).ToListAsync();
-		}
-
 		public async Task<ToDoList> CreateAsync(ToDoList entity)
 		{
 			if (entity == null) throw new ArgumentNullException(nameof(entity));

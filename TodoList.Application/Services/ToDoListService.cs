@@ -37,15 +37,6 @@ namespace TodoList.Application.Services
 			return _mapper.Map<ToDoListDTO?>(result);
 		}
 
-		public async Task<IEnumerable<ToDoListDTO>> GetToDoListByStatusAsync(StatusEnum status)
-		{
-			GetToDoListByStatusQuery toDoListQuery = new GetToDoListByStatusQuery(status);
-			if (toDoListQuery == null) throw new Exception("Entity could not be loaded.");
-
-			var result = await _mediator.Send(toDoListQuery);
-			return _mapper.Map<IEnumerable<ToDoListDTO>>(result);
-		}
-
 		public async Task CreateToDoListAsync(ToDoListDTO entity)
 		{
             ToDoListCreateCommand toDoListCreateCommand = _mapper.Map<ToDoListCreateCommand>(entity);

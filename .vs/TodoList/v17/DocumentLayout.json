@@ -3,6 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\git todo\\todolist\\todolist.application\\interfaces\\itodolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|solutionrelative:todolist.application\\interfaces\\itodolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\git todo\\todolist\\todolist.application\\services\\todolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9177D374-D2E3-4EB6-B5E2-3A575D6F7D6A}|TodoList.Application\\TodoList.Application.csproj|solutionrelative:todolist.application\\services\\todolistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B206EA8B-3A5D-401B-AEA2-D5ECA30BB3BD}|TodoList.Domain\\TodoList.Domain.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\git todo\\todolist\\todolist.domain\\interfaces\\itodolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B206EA8B-3A5D-401B-AEA2-D5ECA30BB3BD}|TodoList.Domain\\TodoList.Domain.csproj|solutionrelative:todolist.domain\\interfaces\\itodolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DB70F5-405B-46E2-8840-8C5A68D9F728}|TodoList.Infra.Data\\TodoList.Infra.Data.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\git todo\\todolist\\todolist.infra.data\\repositories\\todolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DB70F5-405B-46E2-8840-8C5A68D9F728}|TodoList.Infra.Data\\TodoList.Infra.Data.csproj|solutionrelative:todolist.infra.data\\repositories\\todolistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|c:\\users\\jbaga\\onedrive\\\u00E1rea de trabalho\\git todo\\todolist\\todolist.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A1BDDF7A-0C02-42C8-805B-6791EC7C60F5}|TodoList.WebUI\\TodoList.WebUI.csproj|solutionrelative:todolist.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -22,11 +41,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAEMJAAAAAAAAAAD4v1QJAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-10T19:15:17.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "IToDoListService.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\Interfaces\\IToDoListService.cs",
+              "RelativeDocumentMoniker": "TodoList.Application\\Interfaces\\IToDoListService.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\Interfaces\\IToDoListService.cs",
+              "RelativeToolTip": "TodoList.Application\\Interfaces\\IToDoListService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:14:58.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoListService.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\Services\\ToDoListService.cs",
+              "RelativeDocumentMoniker": "TodoList.Application\\Services\\ToDoListService.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.Application\\Services\\ToDoListService.cs",
+              "RelativeToolTip": "TodoList.Application\\Services\\ToDoListService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:14:28.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IToDoListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\Interfaces\\IToDoListRepository.cs",
+              "RelativeDocumentMoniker": "TodoList.Domain\\Interfaces\\IToDoListRepository.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.Domain\\Interfaces\\IToDoListRepository.cs",
+              "RelativeToolTip": "TodoList.Domain\\Interfaces\\IToDoListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:13:53.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.Data\\Repositories\\ToDoListRepository.cs",
+              "RelativeDocumentMoniker": "TodoList.Infra.Data\\Repositories\\ToDoListRepository.cs",
+              "ToolTip": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.Infra.Data\\Repositories\\ToDoListRepository.cs",
+              "RelativeToolTip": "TodoList.Infra.Data\\Repositories\\ToDoListRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T19:13:39.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.WebUI\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "TodoList.WebUI\\Controllers\\DashboardController.cs",
@@ -34,12 +118,11 @@
               "RelativeToolTip": "TodoList.WebUI\\Controllers\\DashboardController.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAWwDkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T18:28:26.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T18:28:26.117Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CreateTask.cshtml",
               "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.WebUI\\Views\\Dashboard\\CreateTask.cshtml",
               "RelativeDocumentMoniker": "TodoList.WebUI\\Views\\Dashboard\\CreateTask.cshtml",
@@ -47,12 +130,11 @@
               "RelativeToolTip": "TodoList.WebUI\\Views\\Dashboard\\CreateTask.cshtml",
               "ViewState": "AQIAABgAAAAAAAAAAAAAABoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-10T18:19:13.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T18:19:13.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jbaga\\OneDrive\\\u00C1rea de Trabalho\\GIT TODO\\ToDoList\\TodoList.WebUI\\appsettings.json",
               "RelativeDocumentMoniker": "TodoList.WebUI\\appsettings.json",
