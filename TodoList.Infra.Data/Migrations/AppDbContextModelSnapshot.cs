@@ -35,12 +35,12 @@ namespace TodoList.Infra.Data.Migrations
                         .HasColumnType("NVARCHAR2(255)")
                         .HasColumnName("DESCRIPTION");
 
-                    b.Property<DateTimeOffset>("EndDate")
-                        .HasColumnType("TIMESTAMP(7) WITH TIME ZONE")
+                    b.Property<DateTime>("EndDate")
+                        .HasColumnType("TIMESTAMP(7)")
                         .HasColumnName("END_DATE");
 
-                    b.Property<DateTimeOffset>("StartDate")
-                        .HasColumnType("TIMESTAMP(7) WITH TIME ZONE")
+                    b.Property<DateTime>("StartDate")
+                        .HasColumnType("TIMESTAMP(7)")
                         .HasColumnName("START_DATE");
 
                     b.Property<int>("Status")
@@ -56,34 +56,6 @@ namespace TodoList.Infra.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("TODOLIST", (string)null);
-                });
-
-            modelBuilder.Entity("TodoList.Domain.Entities.User", b =>
-                {
-                    b.Property<Guid>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("RAW(16)")
-                        .HasColumnName("USER_ID");
-
-                    b.Property<string>("PassWord")
-                        .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("NVARCHAR2(255)")
-                        .HasColumnName("PASSWORD");
-
-                    b.Property<int>("Role")
-                        .HasColumnType("NUMBER(10)")
-                        .HasColumnName("ROLE");
-
-                    b.Property<string>("UserName")
-                        .IsRequired()
-                        .HasMaxLength(255)
-                        .HasColumnType("NVARCHAR2(255)")
-                        .HasColumnName("USERNAME");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("USER", (string)null);
                 });
 #pragma warning restore 612, 618
         }

@@ -48,7 +48,7 @@ namespace TodoList.Application.Services
 
 		public async Task CreateToDoListAsync(ToDoListDTO entity)
 		{
-			ToDoListCreateCommand toDoListCreateCommand = _mapper.Map<ToDoListCreateCommand>(entity);
+            ToDoListCreateCommand toDoListCreateCommand = _mapper.Map<ToDoListCreateCommand>(entity);
 			await _mediator.Send(toDoListCreateCommand);
 		}
 
@@ -56,6 +56,14 @@ namespace TodoList.Application.Services
 		{
 			ToDoListUpdateCommand toDoListUpdateCommand = _mapper.Map<ToDoListUpdateCommand>(entity);
 			await _mediator.Send(toDoListUpdateCommand);
+		}
+
+		public async Task DeleteAllToDoListAsync()
+		{
+			ToDoListDeleteAllCommand toDoListDeleteAllCommand = new ToDoListDeleteAllCommand();
+			if (toDoListDeleteAllCommand == null) throw new Exception("Entity could not be loaded.");
+
+			await _mediator.Send(toDoListDeleteAllCommand);
 		}
 
 		public async Task DeleteToDoListAsync(Guid id)

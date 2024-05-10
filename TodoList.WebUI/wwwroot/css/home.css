@@ -1,0 +1,28 @@
+﻿.wrap-home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.box-home {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    height: 70vh;
+}
+
+    .box-home > div > h1 {
+        font-weight: 700;
+    }
+
+    .box-home > div {
+        text-align: center;
+        color: #251814;
+    }
+
+    .box-home > img {
+        width: 70%;
+    }

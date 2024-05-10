@@ -1,0 +1,78 @@
+﻿@using TodoList.Domain.Enum
+@model TodoList.Application.DTOs.ToDoListDTO
+
+<link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" />
+
+@{
+    ViewBag.Title = "Atualizar atividade";
+}
+
+<div class="container atualizar-nova-task">
+    <div style="width: 70%">
+        <div class="titles">
+            <h2>To-Do App</h2>
+            <p>Comece a organizar seu dia a dia</p>
+        </div>
+        <form asp-action="UpdateTaskPost">
+            <input type="hidden" asp-for="Id" />
+            <div class="form-floating mb-3 w-100">
+                <input type="text" class="form-control" id="Title" name="Title" placeholder="Título da sua task..." value="@Model.Title" required>
+                <label for="floatingInput">Título:</label>
+            </div>
+
+            <div class="form-floating mb-3">
+                <textarea class="form-control" placeholder="Deixe sua descrição aqui..." id="Description" name="Description" style="height: 100px" required>@Model.Description</textarea>
+                <label for="floatingTextarea2">Descrição:</label>
+            </div>
+
+            <div class="form-floating mb-3 w-100">
+                <input type="datetime-local" class="form-control" id="StartDate" name="StartDate" value="@Model.StartDate.ToString("yyyy-MM-ddTHH:mm")" required>
+                <label for="floatingInput">Data de ínicio:</label>
+            </div>
+
+            @if (Model.EndDate == new DateTime())
+            {
+                <div class="form-floating mb-3 w-100">
+                    <input type="datetime-local" class="form-control" id="EndDate" name="EndDate">
+                    <label for="floatingInput">Data Final:</label>
+                </div>
+            }
+            else
+            {
+                <div class="form-floating mb-3 w-100">
+                    <input type="datetime-local" class="form-control" id="EndDate" name="EndDate" value="@Model.EndDate.ToString("yyyy-MM-ddTHH:mm")">
+                    <label for="floatingInput">Data Final:</label>
+                </div>
+            }
+
+            <div class="form-floating mb-3">
+                <select class="form-select" id="Status" name="Status" aria-label="Floating label select example" required>
+                    @if(Model.Status == StatusEnum.Pendente)
+                    {
+                        <option value="@((int)StatusEnum.Pendente)" selected>@StatusEnum.Pendente</option>
+                        <option value="@((int)StatusEnum.Concluido)">@StatusEnum.Concluido</option>
+                        <option value="@((int)StatusEnum.Andamento)">@StatusEnum.Andamento</option>
+                    }
+                    @if (Model.Status == StatusEnum.Concluido)
+                    {
+                        <option value="@((int)StatusEnum.Pendente)">@StatusEnum.Pendente</option>
+                        <option value="@((int)StatusEnum.Concluido)" selected>@StatusEnum.Concluido</option>
+                        <option value="@((int)StatusEnum.Andamento)">@StatusEnum.Andamento</option>
+                    }
+                    @if (Model.Status == StatusEnum.Andamento)
+                    {
+                        <option value="@((int)StatusEnum.Pendente)">@StatusEnum.Pendente</option>
+                        <option value="@((int)StatusEnum.Concluido)">@StatusEnum.Concluido</option>
+                        <option value="@((int)StatusEnum.Andamento)" selected>@StatusEnum.Andamento</option>        
+                    }
+                </select>
+                <label for="floatingSelect">Status da atividade:</label>
+            </div>
+
+            <div class="buttons">
+                <a class="nav-link text-dark btn btn-cancel btn" asp-controller="Dashboard" asp-action="DeleteTask" asp-route-id="@Model.Id">Apagar</a>
+                <button class="btn-save btn" type="submit">Salvar</button>
+            </div>
+        </form>
+    </div>
+</div>

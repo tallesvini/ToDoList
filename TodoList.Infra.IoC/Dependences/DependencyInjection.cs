@@ -1,5 +1,4 @@
-﻿using System.Configuration;
-using FluentValidation;
+﻿using FluentValidation;
 using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -16,7 +15,7 @@ using TodoList.Infra.Data.Repositories;
 
 namespace TodoList.Infra.IoC.Dependences
 {
-    public static class DependencyInjection
+	public static class DependencyInjection
 	{
 		public static IServiceCollection AddConnection(
 			this IServiceCollection services, IConfiguration configuration)
@@ -42,9 +41,6 @@ namespace TodoList.Infra.IoC.Dependences
 			services.AddScoped<IToDoListRepository, ToDoListRepository>();
 			services.AddScoped<IToDoListService, ToDoListService>();
 
-			services.AddScoped<IUserRepository, UserRepository>();
-			services.AddScoped<IUserService, UserService>();
-
 			return services;
 		}
 
@@ -52,7 +48,6 @@ namespace TodoList.Infra.IoC.Dependences
 		{
 			services.AddFluentValidationAutoValidation();
 			services.AddTransient<IValidator<ToDoList>, ToDoListValidator>();
-			services.AddTransient<IValidator<User>, UserValidator>();
 
 			return services;
 		}

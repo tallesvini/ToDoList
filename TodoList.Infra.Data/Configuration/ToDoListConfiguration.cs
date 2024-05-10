@@ -17,11 +17,6 @@ namespace TodoList.Infra.Data.Configuration
 			builder.Property(x => x.StartDate).HasColumnName("START_DATE").IsRequired();
 			builder.Property(x => x.EndDate).HasColumnName("END_DATE");
 			builder.Property(x => x.Status).HasColumnName("STATUS").IsRequired();
-			//builder.Property(x => x.UserId).HasColumnName("USER_ID").IsRequired();
-
-			//builder.HasOne<User>(x => x.User)
-			//	.WithMany(y => y.ToDoLists)
-			//		.HasForeignKey(j => j.UserId);
 		}
 	}
 }

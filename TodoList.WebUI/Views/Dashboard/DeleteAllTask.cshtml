@@ -1,0 +1,19 @@
+﻿@model TodoList.Application.DTOs.ToDoListDTO;
+<link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" />
+
+@{
+	ViewBag.Title = "Apagar Todas";
+}
+
+<div class="container criar-nova-task">
+	<div class="container-alert" style="width: 70%">
+		<div class="box-delete-all">
+			<h2>Tem certeza que deseja deletar todos os itens?</h2>
+
+			<form asp-action="DeleteAllTaskPost" class="btn-interaction-delete">
+				<button type="submit" class="btn btn-yes">Sim</button>
+				<a class="nav-link text-dark btn btn-return" asp-controller="Dashboard" asp-action="Index">Voltar</a>
+			</form>
+		</div>		
+	</div>
+</div>

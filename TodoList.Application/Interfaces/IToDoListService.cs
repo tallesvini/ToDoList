@@ -10,6 +10,7 @@ namespace TodoList.Application.Interfaces
 		Task<IEnumerable<ToDoListDTO>> GetToDoListByStatusAsync(StatusEnum status);
 		Task CreateToDoListAsync(ToDoListDTO entity);
 		Task UpdateToDoListAsync(ToDoListDTO entity);
+		Task DeleteAllToDoListAsync();
 		Task DeleteToDoListAsync(Guid id);
 	}
 }

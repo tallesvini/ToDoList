@@ -1,0 +1,14 @@
+﻿<link rel="stylesheet" href="~/css/statusCodeError.css" asp-append-version="true" />
+
+@{
+    ViewBag.Title = "500 - Erro interno do servidor";
+}
+
+<body>
+    <div class="container-error">
+        <h1>500 - Erro interno do servidor</h1>
+        <h3>Ooops... Algo de errado aconteceu.</h3>
+        <h5>Desculpe pelo incoveniente, estamos trabalhando nisso.</h5>
+        @Html.ActionLink("Voltar à home", "Index", "Home", null, new { @class = "btn btn-error" })
+    </div>
+</body>

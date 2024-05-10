@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+0XEr0XGZKkWkOvOkneD94FVNWuQxK9t5bjugDA8qi0=",
+  "Hash": "vjPHLGP+FoX4b55M/X67OYVHQRi6wBM3K6yvKnfTh7I=",
   "Source": "TodoList.WebUI",
   "BasePath": "_content/TodoList.WebUI",
   "Mode": "Default",
@@ -74,6 +74,25 @@
       "OriginalItemSpec": "wwwroot\\css\\dashboard.css"
     },
     {
+      "Identity": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\home.css",
+      "SourceId": "TodoList.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\",
+      "BasePath": "_content/TodoList.WebUI",
+      "RelativePath": "css/home.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\home.css"
+    },
+    {
       "Identity": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\site.css",
       "SourceId": "TodoList.WebUI",
       "SourceType": "Discovered",
@@ -93,6 +112,25 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\statusCodeError.css",
+      "SourceId": "TodoList.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\",
+      "BasePath": "_content/TodoList.WebUI",
+      "RelativePath": "css/statusCodeError.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\statusCodeError.css"
+    },
+    {
       "Identity": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\favicon.ico",
       "SourceId": "TodoList.WebUI",
       "SourceType": "Discovered",
@@ -110,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\Illustration\\illustrationHome.svg",
+      "SourceId": "TodoList.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\",
+      "BasePath": "_content/TodoList.WebUI",
+      "RelativePath": "Illustration/illustrationHome.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Illustration\\illustrationHome.svg"
     },
     {
       "Identity": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\js\\site.js",

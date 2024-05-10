@@ -21,13 +21,13 @@ namespace TodoList.WebUI.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> CreateTask()
+        public IActionResult CreateTask()
         {
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateTask(ToDoListDTO toDo)
+        public async Task<IActionResult> CreateTaskPost(ToDoListDTO toDo)
         {
             try
             {
@@ -41,10 +41,51 @@ namespace TodoList.WebUI.Controllers
         }
 
 		[HttpGet]
-		public async Task<IActionResult> Status()
+		public async Task<IActionResult> StatusTask()
 		{
 			var toDoListDTO = await _toDoListService.GetAllToDoListAsync();
 			return View(toDoListDTO);
+		}
+
+		[HttpGet]
+		public async Task<IActionResult> UpdateTask(Guid Id)
+		{
+			ToDoListDTO? toDoList = await _toDoListService.GetToDoListByIdAsync(Id);
+			return View(toDoList);
+		}
+
+		[HttpPost]
+		public async Task<IActionResult> UpdateTaskPost(ToDoListDTO toDoList)
+		{
+			await _toDoListService.UpdateToDoListAsync(toDoList);
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult DeleteTask(Guid id)
+        {
+			return View(id);
+        }
+
+        [HttpPost]
+		public async Task<IActionResult> DeleteTaskPost(Guid id)
+		{
+			await _toDoListService.DeleteToDoListAsync(id);
+			return RedirectToAction("Index", "Home");
+		}
+
+
+		[HttpGet]
+		public async Task<IActionResult> DeleteAllTask()
+		{
+			return View();
+		}
+
+		[HttpPost]
+		public async Task<IActionResult> DeleteAllTaskPost()
+		{
+			await _toDoListService.DeleteAllToDoListAsync();
+			return RedirectToAction("Index", "Home");
 		}
 	}
 }

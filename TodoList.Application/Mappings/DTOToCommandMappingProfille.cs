@@ -10,6 +10,7 @@ namespace TodoList.Application.Mappings
         {
             CreateMap<ToDoListDTO, ToDoListCreateCommand>();
             CreateMap<ToDoListDTO, ToDoListUpdateCommand>();
+            CreateMap<IEnumerable<ToDoListDTO>, ToDoListDeleteAllCommand>();
         }
     }
 }

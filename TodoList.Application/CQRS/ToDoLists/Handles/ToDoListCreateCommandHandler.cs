@@ -3,7 +3,6 @@ using FluentValidation;
 using FluentValidation.Results;
 using MediatR;
 using TodoList.Application.CQRS.ToDoLists.Commands;
-using TodoList.Application.CQRS.Users.Commands;
 using TodoList.Domain.Entities;
 using TodoList.Domain.Interfaces;
 

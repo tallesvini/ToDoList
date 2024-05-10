@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\TodoList.WebUI.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\Illustration\\illustrationHome.svg",
+      "PackagePath": "staticwebassets\\Illustration\\illustrationHome.svg"
+    },
+    {
       "Id": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\dashboard.css",
       "PackagePath": "staticwebassets\\css\\dashboard.css"
     },
     {
+      "Id": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
       "Id": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\css\\statusCodeError.css",
+      "PackagePath": "staticwebassets\\css\\statusCodeError.css"
     },
     {
       "Id": "C:\\Users\\jbaga\\OneDrive\\Área de Trabalho\\Estudos\\PROJETOS\\TodoList\\TodoList.WebUI\\wwwroot\\favicon.ico",

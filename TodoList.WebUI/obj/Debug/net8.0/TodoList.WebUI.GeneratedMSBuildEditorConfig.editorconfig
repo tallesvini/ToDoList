@@ -22,20 +22,36 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXENyZWF0ZVRhc2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/Dashboard/DeleteAllTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERlbGV0ZUFsbFRhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/Dashboard/DeleteTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERlbGV0ZVRhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/Dashboard/Status.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFN0YXR1cy5jc2h0bWw=
+[C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/Dashboard/StatusTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFN0YXR1c1Rhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/Dashboard/UpdateTask.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXFVwZGF0ZVRhc2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/ErrorStatusCode/InternalError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JTdGF0dXNDb2RlXEludGVybmFsRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/ErrorStatusCode/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JTdGF0dXNDb2RlXE5vdEZvdW5kLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jbaga/OneDrive/Área de Trabalho/Estudos/PROJETOS/TodoList/TodoList.WebUI/Views/Shared/Error.cshtml]

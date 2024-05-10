@@ -1,0 +1,28 @@
+﻿.container-error {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    height: 100vh;
+    background-color: #EDB046;
+}
+
+.container-error > h1 {
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.btn-error {
+    border: solid 1px #BA5112 !important;
+    background-color: #FFFFFF;
+    color: #BA5112 !important;
+    width: 20%;
+    font-weight: 600;
+}
+
+    .btn-error:hover {
+        background-color: #BA5112;
+        color: #FFFFFF !important;
+        font-weight: 600;
+    }

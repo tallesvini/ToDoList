@@ -44,11 +44,31 @@ body {
     align-items: center;
     justify-content: center;
     background-color: #EDB046 !important;
-    box-shadow: 1px 2px 6px #BFBFBF;
     border-radius: 5px;
     height: 50px;
-    width: 150px;
-    font-weight: 600;
+    width: 220px;
+    font-weight: 500;
+    color: #251814 !important;
+    border: solid 1px #251814;
+}
+
+.btn-add-task:hover {
+    border: solid 1px #BA5112 !important;
+    background-color: #FFFFFF !important;
+    color: #BA5112;
+    transition: all 0.3s ease;
+}
+
+.btn-add-task > a,
+.btn-add-task > span {
+    cursor: pointer;
+    color: #251814 !important;
+}
+
+.btn-add-task:hover > a,
+.btn-add-task:hover > span {
+    transition: all 0.3s ease;
+    color: #BA5112 !important;
 }
 
 .navigation {
