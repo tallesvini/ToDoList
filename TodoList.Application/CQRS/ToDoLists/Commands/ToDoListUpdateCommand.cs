@@ -1,5 +1,4 @@
-﻿
-namespace TodoList.Application.CQRS.ToDoLists.Commands
+﻿namespace TodoList.Application.CQRS.ToDoLists.Commands
 {
     public class ToDoListUpdateCommand : ToDoListCommand
 	{

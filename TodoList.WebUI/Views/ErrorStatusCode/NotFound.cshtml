@@ -1,0 +1,13 @@
+﻿<link rel="stylesheet" href="~/css/statusCodeError.css" asp-append-version="true" />
+
+@{
+    ViewBag.Title = "404 - Não encontrado";
+}
+
+<body>
+    <div class="container-error">
+        <h1>404 - NotFound</h1>
+        <h5>Não foi possível encontrar a página que você está procurando.</h5>
+        @Html.ActionLink("Voltar à home", "Index", "Home", null, new { @class = "btn btn-error" })
+    </div>
+</body>

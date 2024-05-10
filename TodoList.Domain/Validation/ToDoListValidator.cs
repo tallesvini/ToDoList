@@ -29,10 +29,6 @@ namespace TodoList.Domain.Validation
 			RuleFor(x => x.Status)
 				.NotEmpty().WithMessage(GenericErrorsMessages.Required)
 					.NotNull().WithMessage(GenericErrorsMessages.Required);
-
-			RuleFor(x => x.UserId)
-				.NotEmpty().WithMessage(GenericErrorsMessages.Required)
-					.NotNull().WithMessage(GenericErrorsMessages.Required);
 		}
     }
 }

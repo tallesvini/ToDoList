@@ -1,0 +1,51 @@
+﻿@using TodoList.Domain.Enum
+@model IEnumerable<TodoList.Application.DTOs.ToDoListDTO>
+
+<link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" />
+
+@{
+	ViewBag.Title = "Dashboard Status";
+}
+
+<div class="container-task">
+	<div class="box-apresentation-task">
+		<h3>Todas os Status</h3>
+		@if (Model.Any())
+		{
+			<a class="nav-link text-dark btn btn-delete-all" asp-controller="Dashboard" asp-action="DeleteAllTask">Apagar Todas</a>
+		}
+	</div>
+	@if (Model.Any())
+	{
+		<div class="wrap-task-status">
+			@foreach (var statusAgrupado in Model.GroupBy(x => x.Status))
+			{
+				<div>
+					<h1>@statusAgrupado.Key</h1>
+
+					@foreach (var item in statusAgrupado)
+					{
+						<div class="task-status">
+							<h3>@item.Title</h3>
+							<p>
+								<span>Início:</span> @item.StartDate.ToString("ddd, dd/MM/yyyy")
+
+								@if (item.EndDate != new DateTime())
+								{
+									<span>Fim:</span> @item.EndDate.ToString("ddd, dd/MM/yyyy")
+								}
+							</p>
+						</div>
+					}
+				</div>
+			}
+		</div>
+	}
+	else
+	{
+		<div class="box-sem-dados">
+			<h3>Oops... Você não tem tarefas cadastrada.</h3>
+			<h6>Realize o cadastro de novas atividades.</h6>
+		</div>
+	}
+</div>

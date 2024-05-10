@@ -9,7 +9,6 @@ namespace TodoList.Application.Mappings
         public DomainToDTOMappingProfile()
         {
             CreateMap<ToDoList, ToDoListDTO>().ReverseMap();
-            CreateMap<User, UserDTO>().ReverseMap();
         }
     }
 }

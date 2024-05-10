@@ -1,0 +1,51 @@
+﻿@model TodoList.Application.DTOs.ToDoListDTO;
+<link rel="stylesheet" href="~/css/dashboard.css" asp-append-version="true" />
+
+@{
+	ViewBag.Title = "Criar atividade";
+}
+
+<div class="container criar-nova-task">
+	<div class="container-create" style="width: 70%">
+		<div class="titles">
+			<h2>To-Do App</h2>
+			<p>Comece a organizar seu dia a dia</p>
+		</div>
+		<form asp-action="CreateTaskPost">
+			<div class="form-floating mb-3 w-100">
+				<input type="text" class="form-control" id="Title" name="Title" placeholder="Título da sua task..." required>
+				<label for="floatingInput">Título:</label>
+			</div>
+
+			<div class="form-floating mb-3">
+				<textarea class="form-control" placeholder="Deixe sua descrição aqui..." id="Description" name="Description" style="height: 100px" required></textarea>
+				<label for="floatingTextarea2">Descrição:</label>
+			</div>
+
+			<div class="form-floating mb-3 w-100">
+				<input type="datetime-local" class="form-control" id="StartDate" name="StartDate" required>
+				<label for="floatingInput">Data Inicial:</label>
+			</div>
+
+			<div class="form-floating mb-3 w-100">
+				<input type="datetime-local" class="form-control" id="EndDate" name="EndDate">
+				<label for="floatingInput">Data Final:</label>
+			</div>
+
+			<div class="form-floating mb-3">
+				<select class="form-select" id="Status" name="Status" aria-label="Floating label select example" required>
+					<option disabled selected>Selecione o Status</option>
+					<option value="1">Pendente</option>
+					<option value="2">Concluída</option>
+					<option value="3">Em Andamento</option>
+				</select>
+				<label for="floatingSelect">Status:</label>
+			</div>
+			<div class="buttons">
+				<a class="nav-link text-dark btn-cancel btn" asp-controller="Dashboard" asp-action="Index">Cancelar</a>
+				<button class="btn-save btn" type="submit">Salvar</button>
+			</div>
+		</form>
+
+	</div>
+</div>

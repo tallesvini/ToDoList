@@ -1,8 +1,15 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿<link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+
+@{
+	ViewBag.Title = "Home";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="container wrap-home">
+	<div class="box-home">
+		<div>
+			<h1>Dashboard To-Do</h1>
+			<p>O que você vai fazer hoje?</p>
+		</div>
+		<img src="~/Illustration/illustrationHome.svg" alt="Illustration Home">
+	</div>
 </div>
